@@ -45,3 +45,9 @@
   margin-top: 20px;
 }
 
+@media only screen and (max-width: 900px) {
+  .login-page{
+    width: 75%;
+   }
+}
+
